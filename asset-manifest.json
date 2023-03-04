@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Resturant-App/static/css/main.85ec3bc3.css",
+    "main.js": "/Resturant-App/static/js/main.29ef0d6d.js",
+    "static/media/9.jpg": "/Resturant-App/static/media/9.f9413a4fa93cb839c9f8.jpg",
+    "static/media/6.jpg": "/Resturant-App/static/media/6.d647c2f84edbaef5245b.jpg",
+    "static/media/7.jpg": "/Resturant-App/static/media/7.c4a8d21ea658cfd072e9.jpg",
+    "static/media/8.jpg": "/Resturant-App/static/media/8.0f6cc093cdf815835d08.jpg",
+    "static/media/4.jpg": "/Resturant-App/static/media/4.6ef6db913df93a631506.jpg",
+    "static/media/2.jpg": "/Resturant-App/static/media/2.c6022b714dc07c54bdcc.jpg",
+    "static/media/3.jpg": "/Resturant-App/static/media/3.3ccab7c71f46d1035c0c.jpg",
+    "static/media/1.jpg": "/Resturant-App/static/media/1.90e12b6e420bd320ce27.jpg",
+    "static/media/5.jpg": "/Resturant-App/static/media/5.c82c1df46cc68b58c12f.jpg",
+    "index.html": "/Resturant-App/index.html",
+    "main.85ec3bc3.css.map": "/Resturant-App/static/css/main.85ec3bc3.css.map",
+    "main.29ef0d6d.js.map": "/Resturant-App/static/js/main.29ef0d6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85ec3bc3.css",
+    "static/js/main.29ef0d6d.js"
+  ]
+}
