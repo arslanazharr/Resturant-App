@@ -2,6 +2,7 @@ import Menucard from "./Menucard";
 import Menu from "../menuApi";
 import { useState } from "react";
 import Navbar from "./Navbar";
+import Footer from "./Footer";
 
 const uniqueList = [
   ...new Set(
@@ -34,6 +35,7 @@ const Resturant = () => {
           <Menucard menuData={menuData} />
         </div>
       </div>
+      <Footer />
     </>
   );
 };

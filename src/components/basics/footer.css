@@ -1,0 +1,16 @@
+footer {
+  margin-top: 220px;
+  color: #1976d2;
+}
+
+@media (max-width: 575px) {
+  span {
+    display: none;
+  }
+  footer {
+    flex-direction: column;
+  }
+  #first-para {
+    order: 1;
+  }
+}
